@@ -1,4 +1,4 @@
-# 🌐 DNS (Domain Name System) - Explained Simply
+# 🌐 DNS (Domain Name System) 
 
 DNS is what lets us use names like `tryhackme.com` instead of hard-to-remember IP addresses like `93.184.215.14`. It works silently in the background every time you open a website, join a game server, or send an email.
 
