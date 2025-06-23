@@ -98,10 +98,10 @@ nslookup www.example.com
 ```
 Expected output:
 
+```bash
 Server:         127.0.0.53
 Address:        127.0.0.53#53
 
-```bash
 Non-authoritative answer:
 Name:   www.example.com
 Address: 93.184.215.14
